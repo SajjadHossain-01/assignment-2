@@ -311,4 +311,11 @@ footer div {
     .seemore-button {
         display: block;
     }
+
+    footer ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
 }
