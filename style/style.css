@@ -205,6 +205,10 @@ player section
     gap: 30px;
 }
 
+.seemore-button {
+    display: none;
+}
+
 /* footer style */
 
 footer {
@@ -304,4 +308,7 @@ footer div {
         grid-template-columns: repeat(1, 1fr);
     }
 
+    .seemore-button {
+        display: block;
+    }
 }
